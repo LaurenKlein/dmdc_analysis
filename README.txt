@@ -1,1 +1,1 @@
-This repo details the use of DMDc for analyzing infant-caregiver dyadic interactions
+This repo includes code for applying DMDc to multimodal data.
